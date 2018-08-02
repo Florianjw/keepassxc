@@ -874,12 +874,12 @@ Hvis du beholder dette antal, så kan din database være nem af knække!</transl
         <translation>Krypteringsalgoritme</translation>
     </message>
     <message>
-        <source>AES:  256 Bit   (default)</source>
-        <translation>AES: 256 Bit (standard)</translation>
+        <source>AES-CBC:  256 Bit   (default)</source>
+        <translation>AES-CBC: 256 Bit (standard)</translation>
     </message>
     <message>
-        <source>Twofish:  256 Bit</source>
-        <translation>Twofish: 256 Bit</translation>
+        <source>Twofish-CBC:  256 Bit</source>
+        <translation>Twofish-CBC: 256 Bit</translation>
     </message>
     <message>
         <source>Key Derivation Function:</source>
@@ -2583,12 +2583,12 @@ Dette er en envejs konvertering. Du vil ikke være i stand til at åbne den impo
 <context>
     <name>KeePass2</name>
     <message>
-        <source>AES: 256-bit</source>
-        <translation>AES: 256-bit</translation>
+        <source>AES-CBC: 256-bit</source>
+        <translation>AES-CBC: 256-bit</translation>
     </message>
     <message>
-        <source>Twofish: 256-bit</source>
-        <translation>Twofish: 256-bit</translation>
+        <source>Twofish-CBC: 256-bit</source>
+        <translation>Twofish-CBC: 256-bit</translation>
     </message>
     <message>
         <source>ChaCha20: 256-bit</source>

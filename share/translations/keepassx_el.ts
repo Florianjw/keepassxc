@@ -857,12 +857,12 @@ If you keep this number, your database may be too easy to crack!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>AES:  256 Bit   (default)</source>
-        <translation>AES:  256 Bit   (προεπιλεγμένο)</translation>
+        <source>AES-CBC:  256 Bit   (default)</source>
+        <translation>AES-CBC:  256 Bit   (προεπιλεγμένο)</translation>
     </message>
     <message>
-        <source>Twofish:  256 Bit</source>
-        <translation>Twofish:  256 Bit</translation>
+        <source>Twofish-CBC:  256 Bit</source>
+        <translation>Twofish-CBC:  256 Bit</translation>
     </message>
     <message>
         <source>Key Derivation Function:</source>
@@ -2556,11 +2556,11 @@ This is a one-way migration. You won&apos;t be able to open the imported databas
 <context>
     <name>KeePass2</name>
     <message>
-        <source>AES: 256-bit</source>
+        <source>AES-CBC: 256-bit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Twofish: 256-bit</source>
+        <source>Twofish-CBC: 256-bit</source>
         <translation type="unfinished"/>
     </message>
     <message>

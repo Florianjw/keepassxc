@@ -877,12 +877,12 @@ Si conserva este número, ¡su base de datos puede ser muy fácil de descifrar!<
         <translation>Algoritmo de cifrado:</translation>
     </message>
     <message>
-        <source>AES:  256 Bit   (default)</source>
-        <translation>AES: 256-Bit  (por defecto)</translation>
+        <source>AES-CBC:  256 Bit   (default)</source>
+        <translation>AES-CBC: 256-Bit  (por defecto)</translation>
     </message>
     <message>
-        <source>Twofish:  256 Bit</source>
-        <translation>Twofish:  256 Bit</translation>
+        <source>Twofish-CBC:  256 Bit</source>
+        <translation>Twofish-CBC:  256 Bit</translation>
     </message>
     <message>
         <source>Key Derivation Function:</source>
@@ -2585,12 +2585,12 @@ Esta migración es en único sentido. No podrá abrir la base de datos importada
 <context>
     <name>KeePass2</name>
     <message>
-        <source>AES: 256-bit</source>
-        <translation>AES: 256-bit</translation>
+        <source>AES-CBC: 256-bit</source>
+        <translation>AES-CBC: 256-bit</translation>
     </message>
     <message>
-        <source>Twofish: 256-bit</source>
-        <translation>Twofish: 256-bit</translation>
+        <source>Twofish-CBC: 256-bit</source>
+        <translation>Twofish-CBC: 256-bit</translation>
     </message>
     <message>
         <source>ChaCha20: 256-bit</source>

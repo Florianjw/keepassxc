@@ -872,12 +872,12 @@ Ezt a számot megtartva az adatbázis nagyon könnyen törhető lesz.</translati
         <translation>Titkosítási algoritmus:</translation>
     </message>
     <message>
-        <source>AES:  256 Bit   (default)</source>
-        <translation>AES:  256 Bit   (alapértelmezett)</translation>
+        <source>AES-CBC:  256 Bit   (default)</source>
+        <translation>AES-CBC:  256 Bit   (alapértelmezett)</translation>
     </message>
     <message>
-        <source>Twofish:  256 Bit</source>
-        <translation>Twofish:  256 bit</translation>
+        <source>Twofish-CBC:  256 Bit</source>
+        <translation>Twofish-CBC:  256 bit</translation>
     </message>
     <message>
         <source>Key Derivation Function:</source>
@@ -2582,12 +2582,12 @@ Ez egyirányú migráció. Nem lehet majd megnyitni az importált adatbázist a 
 <context>
     <name>KeePass2</name>
     <message>
-        <source>AES: 256-bit</source>
-        <translation>AES: 256 bites</translation>
+        <source>AES-CBC: 256-bit</source>
+        <translation>AES-CBC: 256 bites</translation>
     </message>
     <message>
-        <source>Twofish: 256-bit</source>
-        <translation>Twofish: 256 bites</translation>
+        <source>Twofish-CBC: 256-bit</source>
+        <translation>Twofish-CBC: 256 bites</translation>
     </message>
     <message>
         <source>ChaCha20: 256-bit</source>

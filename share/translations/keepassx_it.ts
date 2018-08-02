@@ -875,12 +875,12 @@ Se continui con questo numero, il tuo database potrebbe essere decifrato molto f
         <translation>Algoritmo di cifratura:</translation>
     </message>
     <message>
-        <source>AES:  256 Bit   (default)</source>
-        <translation>AES: 256 Bit (impostazione predefinita)</translation>
+        <source>AES-CBC:  256 Bit   (default)</source>
+        <translation>AES-CBC: 256 Bit (impostazione predefinita)</translation>
     </message>
     <message>
-        <source>Twofish:  256 Bit</source>
-        <translation>Twofish: 256 Bit</translation>
+        <source>Twofish-CBC:  256 Bit</source>
+        <translation>Twofish-CBC: 256 Bit</translation>
     </message>
     <message>
         <source>Key Derivation Function:</source>
@@ -2585,12 +2585,12 @@ Si tratta di una migrazione unidirezionale. Non sarà possibile aprire il databa
 <context>
     <name>KeePass2</name>
     <message>
-        <source>AES: 256-bit</source>
-        <translation>AES: 256 bit</translation>
+        <source>AES-CBC: 256-bit</source>
+        <translation>AES-CBC: 256 bit</translation>
     </message>
     <message>
-        <source>Twofish: 256-bit</source>
-        <translation>Twofish: 256 bit</translation>
+        <source>Twofish-CBC: 256-bit</source>
+        <translation>Twofish-CBC: 256 bit</translation>
     </message>
     <message>
         <source>ChaCha20: 256-bit</source>

@@ -876,11 +876,11 @@ Si vous conservez ce nombre, la sécurité de votre base de données pourrait ê
         <translation>Algorithme de chiffrement :</translation>
     </message>
     <message>
-        <source>AES:  256 Bit   (default)</source>
+        <source>AES-CBC:  256 Bit   (default)</source>
         <translation>AES : 256 bits (par défaut)</translation>
     </message>
     <message>
-        <source>Twofish:  256 Bit</source>
+        <source>Twofish-CBC:  256 Bit</source>
         <translation>Twofish : 256 bits</translation>
     </message>
     <message>
@@ -2585,11 +2585,11 @@ Il s’agit d’une migration à sens unique. Vous ne pourrez pas ouvrir la base
 <context>
     <name>KeePass2</name>
     <message>
-        <source>AES: 256-bit</source>
+        <source>AES-CBC: 256-bit</source>
         <translation>AES : 256 bits</translation>
     </message>
     <message>
-        <source>Twofish: 256-bit</source>
+        <source>Twofish-CBC: 256-bit</source>
         <translation>Twofish : 256 bits</translation>
     </message>
     <message>

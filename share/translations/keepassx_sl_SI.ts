@@ -470,11 +470,11 @@ You can now save it.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>AES:  256 Bit   (default)</source>
+        <source>AES-CBC:  256 Bit   (default)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Twofish:  256 Bit</source>
+        <source>Twofish-CBC:  256 Bit</source>
         <translation type="unfinished"/>
     </message>
     <message>

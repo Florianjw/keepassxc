@@ -874,12 +874,12 @@ Als je dit aantal aanhoudt is het mogelijk heel gemakkelijk om de database te kr
         <translation>Versleutelingsalgoritme:</translation>
     </message>
     <message>
-        <source>AES:  256 Bit   (default)</source>
-        <translation>AES: 256 bit (standaard)</translation>
+        <source>AES-CBC:  256 Bit   (default)</source>
+        <translation>AES-CBC: 256 bit (standaard)</translation>
     </message>
     <message>
-        <source>Twofish:  256 Bit</source>
-        <translation>Twofish: 256 bit</translation>
+        <source>Twofish-CBC:  256 Bit</source>
+        <translation>Twofish-CBC: 256 bit</translation>
     </message>
     <message>
         <source>Key Derivation Function:</source>
@@ -2584,12 +2584,12 @@ Deze actie is niet omkeerbaar. Je kunt de geïmporteerde database niet meer open
 <context>
     <name>KeePass2</name>
     <message>
-        <source>AES: 256-bit</source>
-        <translation>AES: 256-bit</translation>
+        <source>AES-CBC: 256-bit</source>
+        <translation>AES-CBC: 256-bit</translation>
     </message>
     <message>
-        <source>Twofish: 256-bit</source>
-        <translation>Twofish: 256-bit</translation>
+        <source>Twofish-CBC: 256-bit</source>
+        <translation>Twofish-CBC: 256-bit</translation>
     </message>
     <message>
         <source>ChaCha20: 256-bit</source>

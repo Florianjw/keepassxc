@@ -862,12 +862,12 @@ If you keep this number, your database may be too easy to crack!</source>
         <translation>Algorisme de xifratge:</translation>
     </message>
     <message>
-        <source>AES:  256 Bit   (default)</source>
-        <translation>AES: 256 bits (per defecte)</translation>
+        <source>AES-CBC:  256 Bit   (default)</source>
+        <translation>AES-CBC: 256 bits (per defecte)</translation>
     </message>
     <message>
-        <source>Twofish:  256 Bit</source>
-        <translation>Twofish: 256 bits</translation>
+        <source>Twofish-CBC:  256 Bit</source>
+        <translation>Twofish-CBC: 256 bits</translation>
     </message>
     <message>
         <source>Key Derivation Function:</source>
@@ -2564,11 +2564,11 @@ Es tracta d&apos;una migració unidireccional. No obrir la base de dades importa
 <context>
     <name>KeePass2</name>
     <message>
-        <source>AES: 256-bit</source>
+        <source>AES-CBC: 256-bit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Twofish: 256-bit</source>
+        <source>Twofish-CBC: 256-bit</source>
         <translation type="unfinished"/>
     </message>
     <message>
